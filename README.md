@@ -36,3 +36,5 @@ The expected URL is `https://hpsslab.github.io/cortex/`. If publishing from a di
 The final editable pathway figure is in `design/certificate-pathway.pptx`. Rebuild it with `design/create_certificate_figure.py` (requires python-pptx). Photo sources and licenses are recorded in `design/source-images/README.md` and on the website’s photo credits page.
 
 The favicon adapts the [Bootstrap Icons cpu-fill icon](https://icons.getbootstrap.com/icons/cpu-fill/) (v1.13.1), using CoRTEX navy and white. Its MIT license is retained in `assets/licenses/bootstrap-icons.txt`.
+
+Program logos are in `assets/branding/`: `cortex-logo.svg` includes the full program name, `cortex-wordmark.svg` is the compact header version, and `cortex-logo.png` is a transparent PNG for slides and documents. The symbol combines a semiconductor chip with a three-stage learning path.

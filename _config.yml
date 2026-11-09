@@ -1,0 +1,23 @@
+title: CORTEX
+brand_expansion: Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning
+description: "CORTEX: Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning at Colorado School of Mines, supported by NNME Southwest."
+url: https://hpsslab.github.io
+baseurl: /cortex
+theme: minima
+lang: en
+plugins:
+  - jekyll-sitemap
+header_pages:
+  - certificate.md
+  - smile.md
+  - project.md
+  - contact.md
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - docs
+  - design
+  - vendor
+  - .bundle
+  - LICENSE

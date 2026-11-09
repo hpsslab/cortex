@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-intro: Ask about CORTEX eligibility, industry projects, or cleanroom training research.
+intro: Ask about CoRTEX eligibility, industry projects, or cleanroom training research.
 ---
 ## Certificate and research
 

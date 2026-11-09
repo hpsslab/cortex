@@ -3,7 +3,7 @@ layout: page
 title: Photo credits
 permalink: /photo-credits/
 ---
-The CORTEX pathway uses representative engineering photographs alongside a project image of SMILE training. The representative photographs illustrate the learning pathway and career goal; they do not identify Mines students, capstone teams, program graduates, or industry partners.
+The CoRTEX pathway uses representative engineering photographs alongside a project image of SMILE training. The representative photographs illustrate the learning pathway and career goal; they do not identify Mines students, capstone teams, program graduates, or industry partners.
 
 - **Coursework:** [Engineers Working in Office](https://www.pexels.com/photo/engineers-working-in-office-3912378/), ThisIsEngineering. Used under the [Pexels License](https://www.pexels.com/license/).
 - **Hands-on learning:** ARCA spin-coating demonstration, SMILE project material.

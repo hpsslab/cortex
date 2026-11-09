@@ -70,6 +70,6 @@ Student research topics include reducing detection latency, moving models to edg
 
 ## People and support
 
-SMILE principal investigators are **Mehmet E. Belviranli** (Colorado School of Mines), **Z. Mutlu**, and **B. Kim** (University of Arizona). SMILE is funded by the **DoD Microelectronics Commons through the ASU SWAP Hub**. Its integration into CORTEX is part of the NNME Southwest effort.
+SMILE principal investigators are **Mehmet E. Belviranli** (Colorado School of Mines), **Z. Mutlu**, and **B. Kim** (University of Arizona). SMILE is funded by the **DoD Microelectronics Commons through the ASU SWAP Hub**. Its integration into CoRTEX is part of the NNME Southwest effort.
 
 [Contact Mehmet Belviranli](mailto:belviranli@mines.edu) · [HPSS Lab](https://hpss.mines.edu/)

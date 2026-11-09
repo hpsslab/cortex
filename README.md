@@ -33,4 +33,4 @@ The expected URL is `https://hpsslab.github.io/cortex/`. If publishing from a di
 - `_config.yml`: identity and navigation
 - `assets/css/site.scss`: visual overrides
 
-See `docs/content-notes.md` for provenance and items to verify. Private source documents, budgets, student records, contracts, and the slide deck are deliberately not bundled with the website.
+The final editable pathway figure is in `design/certificate-pathway.pptx`. Rebuild it with `design/create_certificate_figure.py` (requires python-pptx). Photo sources and licenses are recorded in `design/source-images/README.md` and on the website’s photo credits page.

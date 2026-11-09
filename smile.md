@@ -47,8 +47,8 @@ Explore a photo-mapped cleanroom with a floor plan and tool information panels. 
 
 
 <figure class="slide-figure">
-<img src="{{ '/assets/images/arca-spin-coating.jpg' | relative_url }}" width="1280" height="720" loading="lazy" alt="Headset view showing a wafer, tweezers, and a floating spin-coating instruction panel.">
-<figcaption>Still from the HoloLens 2 spin-coating demonstration. The panel displays procedure steps while boxes mark detected objects.</figcaption>
+<img src="{{ '/assets/images/arca-cleanroom-assistant.png' | relative_url }}" width="2256" height="1268" loading="lazy" alt="ARCA headset view with labeled spin coater, controller, pump, and wafer, alongside instructions for step 3 of a 44-step procedure.">
+<figcaption>ARCA guides the learner to the spin coater. The panel shows completed, current, and next steps while boxes identify the equipment and wafer.</figcaption>
 </figure>
 
 ARCA displays the current procedure step and outlines the equipment needed for it. Gaze interaction and virtual buttons let learners move through instructions and request help. The spin-coating demonstration guides a learner through a 44-step procedure.

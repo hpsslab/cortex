@@ -18,7 +18,10 @@ Mines juniors and seniors enrolled in **EDNS 491 and EDNS 492 in Fall 2026 or Sp
 
 ### Industry experience · 6 credits
 
-Complete **EDNS 491 and EDNS 492** with a semiconductor project or role.
+Complete both courses with a semiconductor project or role:
+
+- [EDNS 491 — Capstone Design I](https://catalog.mines.edu/search/?search=EDNS491)
+- [EDNS 492 — Capstone Design II](https://catalog.mines.edu/search/?search=EDNS492)
 
 An alternative pathway may use a 3-credit MME, PHYS, or CBE capstone with a semiconductor industry partner, or an industry internship, together with an approved elective. Discuss alternatives with the program team before planning your coursework.
 
@@ -26,18 +29,25 @@ An alternative pathway may use a 3-credit MME, PHYS, or CBE capstone with a semi
 
 Choose one of the following:
 
-- **PHGN 435** — Microelectronics Processing Laboratory
-- **EENG 532**
-- **EENG 484** — Advanced Digital Design
+- [PHGN 435 — Interdisciplinary Microelectronics Processing Laboratory](https://catalog.mines.edu/search/?search=PHGN435)
+- [EENG 532 — Low Temperature Microwave Measurements for Quantum Engineering](https://catalog.mines.edu/search/?search=EENG532)
+- [EENG 484 — Advanced Digital Design](https://catalog.mines.edu/search/?search=EENG484)
 
 ### Engineering & computing elective · 3 credits
 
 Choose an approved course from:
 
-- **Electrical Engineering:** EENG 421, EENG 423
-- **Computer Science:** CSCI 410, CSCI 564, CSCI 582
-- **Physics:** PHGN 317, PHGN 441, PHGN 550
-- **Metallurgical & Materials Engineering:** MTGN 315
+| Course | Course name |
+|---|---|
+| [EENG 421](https://catalog.mines.edu/search/?search=EENG421) | Semiconductor Device Physics and Design |
+| [EENG 423](https://catalog.mines.edu/search/?search=EENG423) | Introduction to VLSI Design |
+| [CSCI 410](https://catalog.mines.edu/search/?search=CSCI410) | Elements of Computing Systems |
+| [CSCI 564](https://catalog.mines.edu/search/?search=CSCI564) | Advanced Computer Architecture |
+| [CSCI 582](https://catalog.mines.edu/search/?search=CSCI582) | Computing Beyond CPUs |
+| [PHGN 317](https://catalog.mines.edu/search/?search=PHGN317) | Semiconductor Circuits—Digital |
+| [PHGN 441](https://catalog.mines.edu/search/?search=PHGN441) | Solid State Physics Applications and Phenomena |
+| [PHGN 550](https://catalog.mines.edu/search/?search=PHGN550) | Nanoscale Physics and Technology |
+| [MTGN 315](https://catalog.mines.edu/search/?search=MTGN315) | Electrical Properties and Applications of Materials |
 
 Other courses may qualify with approval.
 

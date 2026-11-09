@@ -8,6 +8,8 @@ intro: Semiconductor Manufacturing via Innovative Learning Experience
 ---
 SMILE provides three levels of cleanroom training, from browser-based exploration to augmented reality guidance during a procedure. The tools are being adapted and tested for use in the Mines Nanofabrication Facility.
 
+For more information and materials, visit [Zafer Mutlu’s training resources](https://zafermutlu.arizona.edu/annlab/training).
+
 <section class="resource" markdown="1">
 <span class="tag">Level 1 · Browser · Complete as of November 2026</span>
 
@@ -70,6 +72,6 @@ Student research topics include reducing detection latency, moving models to edg
 
 ## People and support
 
-SMILE principal investigators are **Mehmet E. Belviranli** (Colorado School of Mines), **[Zafer Mutlu](https://zafermutlu.arizona.edu/)**, and **B. Kim** (University of Arizona). SMILE is funded by the **DoD Microelectronics Commons through the ASU SWAP Hub**. Its integration into CoRTEX is part of the [NNME Southwest](https://nnme.org/nnme-southwest/) effort.
+SMILE is led by project PI **[Zafer Mutlu](https://zafermutlu.arizona.edu/)** (University of Arizona). Other project investigators include **Mehmet E. Belviranli** (Colorado School of Mines) and **B. Kim** (University of Arizona). SMILE is funded by the **DoD Microelectronics Commons through the ASU SWAP Hub**. Its integration into CoRTEX is part of the [NNME Southwest](https://nnme.org/nnme-southwest/) effort.
 
 [Contact Mehmet Belviranli](mailto:belviranli@mines.edu) · [HPSS Lab](https://hpss.mines.edu/)

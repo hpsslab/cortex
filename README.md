@@ -34,3 +34,5 @@ The expected URL is `https://hpsslab.github.io/cortex/`. If publishing from a di
 - `assets/css/site.scss`: visual overrides
 
 The final editable pathway figure is in `design/certificate-pathway.pptx`. Rebuild it with `design/create_certificate_figure.py` (requires python-pptx). Photo sources and licenses are recorded in `design/source-images/README.md` and on the website’s photo credits page.
+
+The favicon adapts the [Bootstrap Icons cpu-fill icon](https://icons.getbootstrap.com/icons/cpu-fill/) (v1.13.1), using CORTEX navy and white. Its MIT license is retained in `assets/licenses/bootstrap-icons.txt`.

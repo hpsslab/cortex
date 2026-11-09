@@ -53,13 +53,6 @@ Other courses may qualify with approval.
 
 <div class="note">Confirm your course selection and capstone eligibility with the program team. Check course availability and approval before enrollment.</div>
 
-## Certificate sample
-
-<figure class="slide-figure">
-<img src="{{ '/assets/images/certificate-sample.jpg' | relative_url }}" width="1467" height="1117" loading="lazy" alt="Blank provisional certificate for Applied Semiconductor Manufacturing, Engineering, and Design at Colorado School of Mines.">
-<figcaption>Sample provisional Certificate of Experience.</figcaption>
-</figure>
-
 ## Laboratory training
 
 The project is revising microelectronics processing laboratory instruction with SMILE tools: interactive videos, 360° cleanroom tours, and augmented reality guidance. The first offering of the revised laboratory course is planned for Spring 2027.

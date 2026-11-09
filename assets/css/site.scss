@@ -19,3 +19,6 @@ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);
 .brand-logo{display:block;width:220px;height:auto}.site-title .brand-context{margin-top:6px}
 
 .institution a,.institution a:visited{color:inherit;text-decoration:underline;text-underline-offset:3px}
+
+/* Minima’s clearfix must not occupy a third position in the banner flex row. */
+.institution .wrapper::after{content:none}.institution-node{margin-left:auto;white-space:nowrap}

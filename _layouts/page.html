@@ -2,6 +2,6 @@
 layout: default
 ---
 <article class="post">
-  <header class="post-header"><p class="eyebrow">{{ page.eyebrow | default: site.title }}</p><h1 class="post-title">{{ page.title }}</h1>{% if page.intro %}<p class="lede">{{ page.intro }}</p>{% endif %}</header>
+  <header class="post-header"><p class="eyebrow">{{ page.eyebrow | default: site.title }}</p><h1 class="post-title">{{ page.title }}</h1>{% if page.intro %}<p class="lede">{% if page.intro == site.brand_expansion %}{% include cortex-title.html %}{% else %}{{ page.intro }}{% endif %}</p>{% endif %}</header>
   <div class="post-content">{{ content }}</div>
 </article>

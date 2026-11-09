@@ -11,3 +11,5 @@ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);
 /* CORTEX identity */
 .brand-name{display:block;font-size:29px;font-weight:750;letter-spacing:.055em;line-height:1.15}.brand-context{display:block;font-size:12px;font-weight:400;letter-spacing:0;color:var(--muted);margin-top:4px}.hero .cortex-title{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:64px;font-weight:750;letter-spacing:.04em;margin-bottom:15px}.brand-expansion{font-size:25px;line-height:1.4;color:var(--navy);max-width:700px;margin-bottom:22px}.pathway-visual img{max-height:none;background:#fff}.pathway-visual a{display:block}
 @media(max-width:800px){.hero .cortex-title{font-size:49px}.brand-expansion{font-size:22px}}
+
+.acronym-letter{color:var(--accent);font-weight:750;text-transform:uppercase}

@@ -30,7 +30,7 @@ def line(x1,y1,x2,y2,c='navy',width=2):
 # Photo-led pathway. Images remain separate, editable PowerPoint picture objects.
 r.slide_height=Inches(7.8)
 box(0,0,16,7.8,'white')
-text(.55,.3,14,.3,'CoRTEX  /  COLORADO SCHOOL OF MINES',12,'rust',True)
+text(.55,.3,14,.3,'CoRtEx  /  COLORADO SCHOOL OF MINES',12,'rust',True)
 text(.55,.85,15,.95,'Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning',26,'navy',True,'Georgia')
 xs=[.55,4.38,8.21,12.04];w=3.41
 text(.55,1.88,9,.32,'EXPERIENTIAL LEARNING',12,'rust',True)
@@ -72,7 +72,7 @@ s.notes_slide.notes_text_frame.text = """Photo sources and intended use:
 4. Industry placement: Carol M. Highsmith, Kenneth Rudolph and John Hojnacki at Intel's wafer fabrication facility, Chandler, Arizona, 14 November 2018. Library of Congress, https://www.loc.gov/item/2018703083/ . Rights advisory: No known restrictions on publication. Cropped for layout. This image illustrates semiconductor employment; it does not identify a program partner or placed graduate.
 The final stage is the program goal. Course credits remain 3 + 3 + 6.
 """
-r.core_properties.title='CoRTEX: Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning'
+r.core_properties.title='CoRtEx: Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning'
 r.core_properties.author='Colorado School of Mines'
 for item in s.shapes:
  sp=item._element.find('{http://schemas.openxmlformats.org/presentationml/2006/main}spPr')

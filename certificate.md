@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CoRTEX certificate
+title: CoRtEx certificate
 nav_title: Certificate
 permalink: /certificate/
 eyebrow: Fall 2026 – Spring 2027
 intro: Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning
 ---
-CoRTEX combines existing courses with laboratory training and semiconductor industry experience. It is offered by Computer Science in collaboration with Electrical Engineering, Metallurgical & Materials Engineering, and Physics. There is no added tuition for the certificate.
+CoRtEx combines existing courses with laboratory training and semiconductor industry experience. It is offered by Computer Science in collaboration with Electrical Engineering, Metallurgical & Materials Engineering, and Physics. There is no added tuition for the certificate.
 
 ## Who can apply
 

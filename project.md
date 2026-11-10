@@ -3,9 +3,9 @@ layout: page
 title: Project scope & timeline
 nav_title: Project
 permalink: /project/
-intro: CoRTEX at Colorado School of Mines, supported by the <a href="https://nnme.org/nnme-southwest/">NNME Southwest Node</a>.
+intro: CoRtEx at Colorado School of Mines, supported by the <a href="https://nnme.org/nnme-southwest/">NNME Southwest Node</a>.
 ---
-CoRTEX — Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning — connects coursework, laboratory training, and an industry capstone at Colorado School of Mines. The project brings together Computer Science, Electrical Engineering, Metallurgical & Materials Engineering, and Physics.
+CoRtEx — Certificate of Experience on Semiconductor Training Readiness Through Experiential Learning — connects coursework, laboratory training, and an industry capstone at Colorado School of Mines. The project brings together Computer Science, Electrical Engineering, Metallurgical & Materials Engineering, and Physics.
 
 ## Three areas of work
 

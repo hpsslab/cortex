@@ -72,6 +72,6 @@ Student research topics include reducing detection latency, moving models to edg
 
 ## People and support
 
-SMILE is led by project PI **[Zafer Mutlu](https://zafermutlu.arizona.edu/)** (University of Arizona). Other project investigators include **Mehmet E. Belviranli** (Colorado School of Mines) and **B. Kim** (University of Arizona). SMILE is funded by the **DoD Microelectronics Commons through the ASU SWAP Hub**. Its integration into CoRTEX is part of the [NNME Southwest](https://nnme.org/nnme-southwest/) effort.
+SMILE is led by project PI **[Zafer Mutlu](https://zafermutlu.arizona.edu/)** (University of Arizona). Other project investigators include **Mehmet E. Belviranli** (Colorado School of Mines) and **B. Kim** (University of Arizona). SMILE is funded by the **DoD Microelectronics Commons through the ASU SWAP Hub**. Its integration into CoRtEx is part of the [NNME Southwest](https://nnme.org/nnme-southwest/) effort.
 
 [Contact Mehmet Belviranli](mailto:belviranli@mines.edu) · [HPSS Lab](https://hpss.mines.edu/)

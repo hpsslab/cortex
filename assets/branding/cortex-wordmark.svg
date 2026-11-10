@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="128" viewBox="0 0 540 128" role="img" aria-labelledby="logo-title"><title id="logo-title">CoRTEX</title><g fill="#21314d">
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="128" viewBox="0 0 540 128" role="img" aria-labelledby="logo-title"><title id="logo-title">CoRtEx</title><g fill="#21314d">
 <rect x="22" y="22" width="84" height="84" rx="15"/>
 <path d="M39 6v16m25-16v16M89 6v16M39 106v16m25-16v16m25-16v16M6 39h16M6 64h16M6 89h16m84-50h16m-16 25h16m-16 25h16" fill="none" stroke="#21314d" stroke-width="7" stroke-linecap="round"/>
 </g>
@@ -6,4 +6,4 @@
 <rect x="36" y="81" width="12" height="12" rx="2" fill="#ffffff"/>
 <rect x="58" y="63" width="12" height="12" rx="2" fill="#ffffff"/>
 <path d="M76 39l10 10-10 10" fill="none" stroke="#dc9169" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="152" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">C</text><text x="215" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#a64b2a">o</text><text x="273" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">R</text><text x="338" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">T</text><text x="395" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">E</text><text x="453" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">X</text></svg>
+<text x="152" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">C</text><text x="215" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#a64b2a">o</text><text x="273" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">R</text><text x="338" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">t</text><text x="380" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">E</text><text x="438" y="96" font-family="DejaVu Sans, Arial, sans-serif" font-size="83" font-weight="700" fill="#21314d">x</text></svg>
